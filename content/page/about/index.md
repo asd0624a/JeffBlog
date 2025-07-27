@@ -1,13 +1,11 @@
 ---
-title: About
-description: Hugo, the world's fastest framework for building websites
-date: '2019-02-28'
+title: about
+description: I'm Jeff，一位專注於 Linux、CI/CD、容器化與雲端部署的維運工程師，熱衷於 DevOps 與自動化技術
+date: '2025-07-27'
 aliases:
-  - about-us
-  - about-hugo
+  - about-me
   - contact
-license: CC BY-NC-ND
-lastmod: '2020-10-09'
+lastmod: '2025-07-27'
 menu:
     main: 
         weight: -90
